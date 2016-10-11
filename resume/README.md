@@ -1,19 +1,23 @@
-Markdown-code:
 
-I get 10 times more traffic from [Google][] than from [Yahoo][] or [MSN][].
 
-[Google]: http://google.com/        "Google Search"
-[Yahoo]: http://search.yahoo.com/  "Yahoo Search"
-[MSN]: http://search.msn.com/    "MSN Search"
-
-**The World Cup** is cool!
-_I like to be a Hipster_
-_The End of the **World** is upon us!_
-**The World will be a _Police State_**
+**CV** <br>
+>> Andro Račić
+>> Riegelstraat 13, 9000 Gent
+>>Male
+>>Croatian
+>>Single
+>>00385994021597
+>>andro.racic@gmail.com
+>>www.pure-electro.com
+>>www.facebook.com/andro.racic
+>>Work @ Pure Electro / Discorrosion party
+>>Work @ Gavella theatre
+<br>
+>>
 
 _\*Hey Deze tekst is voorzien van asteriks\*_
 
-![De Maan](http://www.digital-photography-school.com/wp-content/uploads/2010/12/lunar-eclipse.jpg "Wondermooie Maan")
+![AndroRacic](http://www.dm2-web.com/t12/img/androprofil.jpg "Andro Racic")
 
 \!
 
