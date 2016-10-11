@@ -1,17 +1,17 @@
 
 
-**CV** <br>
->> Andro Račić
->> Riegelstraat 13, 9000 Gent
->>Male
->>Croatian
->>Single
->>00385994021597
->>andro.racic@gmail.com
->>www.pure-electro.com
->>www.facebook.com/andro.racic
->>Work @ Pure Electro / Discorrosion party
->>Work @ Gavella theatre
+**CV** <br><br>
+>> Andro Račić<br>
+>> Riegelstraat 13, 9000 Gent<br>
+>>Male<br>
+>>Croatian<br>
+>>Single<br>
+>>00385994021597<br>
+>>andro.racic@gmail.com<br>
+>>www.pure-electro.com<br>
+>>www.facebook.com/andro.racic<br>
+>>Work @ Pure Electro / Discorrosion party<br>
+>>Work @ Gavella theatre<br>
 <br>
 >>
 
