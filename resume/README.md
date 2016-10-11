@@ -15,7 +15,7 @@
 <br>
 >>
 
-_\*Hey Deze tekst is voorzien van asteriks\*_
+_\*I can't do this :D\*_
 
 ![AndroRacic](http://www.dm2-web.com/t12/img/androprofil.jpg "Andro Racic")
 
